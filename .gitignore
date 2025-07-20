@@ -7,4 +7,6 @@
 !.config/
 !.config/ohmyposh/
 !.config/ohmyposh/zen_hdbngr.toml
+!.config/ghostty/
+!.config/ghostty/config
 

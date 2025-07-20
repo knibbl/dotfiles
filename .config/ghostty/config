@@ -1,0 +1,11 @@
+keybind = shift+left=previous_tab
+keybind = shift+right=next_tab
+keybind = global:f1=toggle_visibility
+background-opacity = 0.8
+maximize = true
+working-directory = /Users/headbanger
+shell-integration = zsh
+clipboard-read = allow
+clipboard-write = allow
+copy-on-select = true
+macos-option-as-alt = true
