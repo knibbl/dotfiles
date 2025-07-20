@@ -1,0 +1,10 @@
+# Ignore everything by default.
+*
+
+# But not my chosen dotfiles
+!.gitignore
+!.zshrc
+!.config/
+!.config/ohmyposh/
+!.config/ohmyposh/zen_hdbngr.toml
+
